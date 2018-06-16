@@ -1,0 +1,1 @@
+Comando no cmd ng new NomeProjeto > cria um novo projeto angular
