@@ -1,1 +1,5 @@
-Comando no cmd ng new NomeProjeto > cria um novo projeto angular
+
+Comandos no cmd
+npm install -g @angular/cli instala interfacede linha de comando do angular
+ng new NomeProjeto > cria um novo projeto angular;
+ng serve > faz o a build do projeto e apresenta no browser;
